@@ -7,7 +7,7 @@ dotenv.config();
 const commandDefinitions = [
   {
     name: "hey",
-    description: "Replies with hey!",
+    description: "Replies with Hey!",
   },
   {
     name: "comp",

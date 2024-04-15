@@ -17,11 +17,13 @@
 <p>Original logo generated using <a href="https://www.midjourney.com/home">Midjourney</a>.</p>
 
 ## ⚽ Supported leagues 
-The bot is currently able to send messages about the following leagues: Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, Primeira Liga, Eredivisie, Brasileirão, and MLS.</p>
+The bot is currently able to send messages about the following leagues: Premier League.</p>
 
 ## 🤖 Supported commands
 
-`/hello` Just a greeting to the bot.
+- `/hey` Replies with Hgey!
+- `/comp` Show a list of competitions
+- `/premier` Show matches for Premier League
 
 ## 🔗 Useful links
 - [Discord.js Guide](https://discordjs.guide)
